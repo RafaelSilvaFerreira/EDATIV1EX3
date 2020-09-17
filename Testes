@@ -1,0 +1,72 @@
+Lista de Alunos
+	1-Checar se a lista está Vazia
+	2-Adicionar item ao início da lista
+	3-Adicionar item ao final da lista
+	4-Adicionar item ao meio da lista
+	5-Remover item do início da lista
+	6-Remover item do final da lista
+	7-Remover item do meio da lista
+	8-Exibir lista
+	9-Finalizar programa
+O que deseja fazer?
+2
+Insira o RA:1
+Insira o nome do aluno:a
+Insira o semestre:1
+Aluno adicionado ao início da lista
+O que deseja fazer?
+2
+Insira o RA:1
+Insira o nome do aluno:b
+Insira o semestre:3
+Aluno adicionado ao início da lista
+O que deseja fazer?
+3
+Insira o RA:3
+Insira o nome do aluno:c
+Insira o semestre:4
+Aluno adicionado ao fim da lista
+O que deseja fazer?
+3
+Insira o RA:1
+Insira o nome do aluno:d
+Insira o semestre:4
+Aluno adicionado ao fim da lista
+O que deseja fazer?
+4
+Insira o RA:12
+Insira o nome do aluno:e
+Insira o semestre:5
+Aluno adicionado ao índice: 2
+O que deseja fazer?
+5
+Aluno removido do Inicio da lista.
+
+RA: 1
+ nome: b
+ semestre3
+O que deseja fazer?
+6
+Aluno removido do fim da lista
+
+RA: 1
+ nome: d
+ semestre: 4
+O que deseja fazer?
+7
+Aluno removido do meio da lista.
+tamanho novo: 2
+removido:
+ RA: 12
+ nome: e
+ semestre: 5
+O que deseja fazer?
+8
+ 
+RA: 1
+ nome: a
+ semestre: 1
+RA: 3
+ nome: c
+ semestre: 4
+O que deseja fazer?
